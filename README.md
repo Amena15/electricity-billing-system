@@ -18,7 +18,7 @@ A web-based Electricity Billing System built using Django and Python. This syste
 ## 🛠 Tech Stack
 
 - **Backend:** Python, Django
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS, JavaScript 
 - **Database:** SQLite 
 - **Tools:** Django Admin, Django ORM, Virtualenv
 
