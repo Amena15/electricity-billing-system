@@ -31,13 +31,18 @@ A web-based Electricity Billing System built using Django and Python. This syste
 git clone https://github.com/your-username/electricity-billing-system.git
 cd electricity-billing-system
 
-### 2. Install Dependencies
-Make sure you have pip installed. Then, run the following command to install all the required dependencies:
+### 2. Create and Activate a Virtual Environment 
+python -m venv env
+# Windows
+env\Scripts\activate
+# macOS/Linux
+source env/bin/activate
+
+### 3. Install Dependencies
 pip install -r requirements.txt
 
-### 3. Set Up the Database
+### 4. Apply Migrations
 python manage.py migrate
 
-### 4. Run the Development Server 
-
+### 5. Run the Development Server 
 python manage.py runserver
