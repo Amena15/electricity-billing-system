@@ -26,9 +26,8 @@ A web-based Electricity Billing System built using Django and Python. This syste
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-
 ```bash
+### 1. Clone the Repository
 git clone https://github.com/your-username/electricity-billing-system.git
 cd electricity-billing-system
 
